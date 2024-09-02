@@ -94,8 +94,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - **Name**: Ronit Shah
-- **Email**: [your-email@example.com](mailto:shahronit16@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ronit-shah-02a9a227a/)
+- **Email**: [shahronit16@gmail.com](mailto:shahronit16@example.com)
+- **LinkedIn**: [Ronit Shah](https://www.linkedin.com/in/ronit-shah-02a9a227a/)
 
 ## Acknowledgements
 

@@ -3,21 +3,17 @@
 
 ## Project Overview
 
-This project is a YouTube Clone built using React, Tailwind CSS, and Three.js. It utilizes the YouTube V3 API to fetch and display video content. The clone aims to replicate the core features of YouTube, such as searching for videos, viewing video details, and browsing various categories.
+This project is a YouTube Clone built using React. It utilizes the YouTube V3 API to fetch and display video content. The clone aims to replicate the core features of YouTube, such as searching for videos, viewing video details, and browsing various categories.
 
 ## Features
 
 - **Search Videos**: Users can search for videos using the search bar, with results fetched directly from the YouTube V3 API.
 - **Video Categories**: Browse videos by categories such as "Music," "Gaming," "News," etc.
 - **Responsive Design**: The application is fully responsive and optimized for various screen sizes.
-- **Modern UI**: Designed with Tailwind CSS for a sleek, modern user interface.
-- **Three.js Integration**: Some 3D elements and animations are integrated using Three.js.
 
 ## Technology Stack
 
 - **Frontend**: React
-- **Styling**: Tailwind CSS
-- **3D Elements**: Three.js
 - **API**: YouTube V3 API
 - **Deployment**: [Vercel](https://vercel.com)
 
@@ -98,12 +94,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - **Name**: Ronit Shah
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **Email**: [your-email@example.com](mailto:shahronit16@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ronit-shah-02a9a227a/)
 
 ## Acknowledgements
 
 - [YouTube V3 API Documentation](https://developers.google.com/youtube/v3)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Three.js Documentation](https://threejs.org/docs/)
+

@@ -18,7 +18,7 @@ export const logo = logoImage;
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Mr Beast', icon: <CodeIcon />, },
+  { name: 'Unreal Engine', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
